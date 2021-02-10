@@ -7,5 +7,8 @@
   },
   "repository": "https://github.com/jacob-a132/EmailTextNotifications.git",
   "author": "<jacobatzori@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
