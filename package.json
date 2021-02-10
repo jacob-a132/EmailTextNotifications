@@ -1,0 +1,11 @@
+{
+  "name": "EmailTextNotifications",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/jacob-a132/EmailTextNotifications.git",
+  "author": "<jacobatzori@hotmail.com>",
+  "license": "MIT"
+}
